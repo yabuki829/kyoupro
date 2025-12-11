@@ -1,2 +1,2 @@
 # Atcoder勉強リポジトリ
-[Atcoder Account](https://atcoder.jp/users/yabuki_shodai)
+<!-- [Atcoder Account](https://atcoder.jp/users/yabuki_shodai) -->
